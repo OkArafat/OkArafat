@@ -8,7 +8,7 @@ BSc in Computer Science and Engineering (currently studying at BRAC University, 
 Passionate about coding, ethical hacking, and software development.
 Completed projects include Google clone, Spotify clone, and various games like Tic-Tac-Toe and Snake.
 Interested in combining technology with social good, considering an internship at an NGO providing microloans.
-Currently, I am studying in Bangladesh in the Bracu CSE department
+
 Hobbies include coin collection, swimming, and gardening.
 
 Skills: Pythone/JS / REACT / JS / HTML / CSS
